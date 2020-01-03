@@ -20,3 +20,7 @@ These are repositories for active hApps being developed on top of Holochain (all
 
 * [Junto](https://github.com/juntofoundation/Junto): new breed of social media founded in the spirit of authenticity.
 * [Holo-REA](https://github.com/holo-rea/holo-rea): a resource accounting framework and suite of apps for building economic coordination applications of any kind.
+
+## Tools and libraries
+
+* [Holochain Anchors](https://github.com/holochain/holochain_anchors): easily use the anchors pattern for creating links.
