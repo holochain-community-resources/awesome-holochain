@@ -11,7 +11,7 @@ If you want to add some resource, we welcome Pull Requests!
 These are repositories for active hApps being developed on top of Holochain (all of them are in progress efforts):
 
 ### From Holochain
-* [Communitites](https://github.com/Holo-Host/holo-communities-dna) (previously Hylo): DNA for the holo communities hApp.
+* [Communities](https://github.com/Holo-Host/holo-communities-dna) (previously Hylo): DNA for the holo communities hApp.
 * [Holo-host hosting](https://github.com/Holo-Host/holo-hosting-app): Holo hosting app is an app that connects Providers and Hosts.
 * [Peer-chat](https://github.com/holochain/peer-chat): instant messaging application running on Holochain.
 * [Personas-profiles](https://github.com/holochain/personas-profiles): app for people to manage how other apps access their personal information.
