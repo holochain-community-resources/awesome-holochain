@@ -1,4 +1,4 @@
-# awesome-holochain
+# Awesome Holochain
 
 A curated list of awesome holochain resources, tools, community hApps and examples.
 
