@@ -26,8 +26,12 @@ These are repositories for active hApps being developed on top of Holochain (all
 * [Holo-host hosting](https://github.com/Holo-Host/holo-hosting-app): Holo hosting app is an app that connects Providers and Hosts.
 * [Peer-chat](https://github.com/holochain/peer-chat): instant messaging application running on Holochain.
 * [Personas-profiles](https://github.com/holochain/personas-profiles): app for people to manage how other apps access their personal information.
+* [H-Wiki](https://github.com/eyss/h-wiki-back): collaborative wiki with role management.
 
 ### From the community
 
 * [Junto](https://github.com/juntofoundation/Junto): new breed of social media founded in the spirit of authenticity.
 * [Holo-REA](https://github.com/holo-rea/holo-rea): a resource accounting framework and suite of apps for building economic coordination applications of any kind.
+* [__holo.txt](https://github.com/kristoferlund/holotxt): Proof of concept Holochain app showcasing simple collaborative notes editing.
+* [LeaP](https://github.com/holochain-devcamp/learning-pathways): a collaborative learning system.
+* [Digital contract](https://github.com/HedayatAbedijoo/holocontract/tree/master/DigitalContract): digital contracts that are peer-to-peer, tamper-proof, and cannot be forged.
